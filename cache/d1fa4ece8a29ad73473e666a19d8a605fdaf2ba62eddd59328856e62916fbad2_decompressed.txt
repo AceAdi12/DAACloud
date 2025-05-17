@@ -1,0 +1,2 @@
+This is a test file for compression and cloud upload.
+This helps verify the system's duplicate detection, compression, and retrieval.
